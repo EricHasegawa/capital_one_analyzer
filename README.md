@@ -33,3 +33,5 @@ assumptions I have made, and how this code would be integrated and extended.
     written to a file for later use. Moving forward, it would be good to add code quality/syntax checkers 
     to this program; i.e. making sure every opened comment is closed, ensuring there's not too much 
     whitespace or unfinished TODO's etc. 
+    
+    If you have any questions or concerns, please reach out to me @ erichasegawa1@gmail.com
