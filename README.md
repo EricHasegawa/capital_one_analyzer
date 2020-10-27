@@ -3,10 +3,11 @@ assumptions I have made, and how this code would be integrated and extended.
 
 1. What is included:
     - The actual program is in analyzer.py, it contains two functions:
-        i. analyze: actual program
+        i. analyze: actual program.
         ii. get_identifiers: helper function to decide what characters are used to identify comments
     - 8 test cases for basic popular programming languages that are supported by default; although
-      any language can be used as long as the comment identifiers are passed in by the user
+      any language can be used as long as the comment identifiers are passed in by the user.
+    - A test_results.txt file containing the printed output of running the tests that I wrote.
     - This readme
 
 2. How to use:
