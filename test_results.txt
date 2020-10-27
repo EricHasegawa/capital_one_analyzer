@@ -1,0 +1,59 @@
+(base) OME-C02ZV2QJMD6P2:Capital One Program ehasegawa$ /Users/ehasegawa/opt/anaconda3/bin/python "/Users/ehasegawa/Desktop/Capital One Program/analyzer.py"
+HTML Test:
+Total # of lines:  28
+Total # of comment lines:  3
+Total # of single line comments:  3
+Total # of comment lines within block comments:  3
+Total # of block line comments:  3
+Total # of TODO's:  0
+C Test:
+Total # of lines:  15
+Total # of comment lines:  1
+Total # of single line comments:  1
+Total # of comment lines within block comments:  0
+Total # of block line comments:  0
+Total # of TODO's:  0
+CPP Test:
+Total # of lines:  105
+Total # of comment lines:  7
+Total # of single line comments:  7
+Total # of comment lines within block comments:  0
+Total # of block line comments:  0
+Total # of TODO's:  1
+CS Test:
+Total # of lines:  26
+Total # of comment lines:  1
+Total # of single line comments:  0
+Total # of comment lines within block comments:  1
+Total # of block line comments:  1
+Total # of TODO's:  0
+CSS Test:
+Total # of lines:  12
+Total # of comment lines:  1
+Total # of single line comments:  1
+Total # of comment lines within block comments:  1
+Total # of block line comments:  1
+Total # of TODO's:  0
+Java Test:
+Total # of lines:  25
+Total # of comment lines:  3
+Total # of single line comments:  2
+Total # of comment lines within block comments:  1
+Total # of block line comments:  1
+Total # of TODO's:  0
+Javascript Test:
+Total # of lines:  16
+Total # of comment lines:  8
+Total # of single line comments:  7
+Total # of comment lines within block comments:  1
+Total # of block line comments:  1
+Total # of TODO's:  0
+Python Test:
+Total # of lines:  30
+Total # of comment lines:  7
+Total # of single line comments:  7
+Total # of comment lines within block comments:  0
+Total # of block line comments:  0
+Total # of TODO's:  0
+TESTS FINISHED
+(base) OME-C02ZV2QJMD6P2:Capital One Program ehasegawa$ 
